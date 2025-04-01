@@ -25,21 +25,10 @@ Hi there! I'm **Sahani Mohottige**, a passionate **Software Engineering Undergra
 
 #### 🔹 Database & Backend  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 #### 🔹 DevOps & Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
----
-
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahani-Mohottige&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahani-Mohottige&layout=compact&theme=radical)  
-
-### **📈 GitHub Metrics**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahani-Mohottige&theme=tokyonight)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahani-Mohottige&theme=tokyonight)  
 
 ---
 
