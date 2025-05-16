@@ -5,7 +5,7 @@
 ---
 
 ### 👋 About Me  
-Hi there! I'm **Sahani Mohottige**, a passionate **Software Engineering Undergraduate** with a strong interest in **Full-Stack Development** and **Project Management**. I love building scalable applications with **React** and **Spring Boot**, while also focusing on **UI/UX design** to enhance user experiences.  
+Hi there! I'm **Sahani Mohottige**, a passionate **Software Engineering Undergraduate** with a strong interest in **Full-Stack Development**, **Quality Assuarance** and **Project Management**. I love building scalable applications with **React**, **Spring Boot**, while also focusing on **UI/UX design** to enhance user experiences.  
 
 ---
 
@@ -27,9 +27,7 @@ Hi there! I'm **Sahani Mohottige**, a passionate **Software Engineering Undergra
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 
 #### 🔹 DevOps & Tools  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
@@ -43,8 +41,8 @@ A logistics and courier service platform for seamless shipping solutions between
 *React | Spring Boot | Java | MySQL*  
 A fuel quota management system ensuring efficient fuel distribution in Sri Lanka.  
 
-🔹 **[Portfolio Website](https://github.com/Sahani-Mohottige/Portfolio)**  
-*React | Tailwind CSS*  
+🔹 **[Portfolio Website](https://github.com/Sahani-Mohottige/My-Portfolio)**  
+*HTML | Tailwind CSS | JavaScript*  
 A personal portfolio showcasing my projects, skills, and experience.  
 
 🔹 **[Elder Chat Interface](#)**  
