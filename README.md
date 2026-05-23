@@ -68,6 +68,10 @@ A logistics and courier service platform for seamless shipping solutions between
 *React | Spring Boot | Java | MySQL*  
 A fuel quota management system ensuring efficient fuel distribution in Sri Lanka.  
 
+🔹 **[E-Commerce Website](https://github.com/Sahani-Mohottige/E-Commerce-Website)**  
+*React (Vite) | Redux Toolkit | Node.js | Express | MongoDB | TailwindCSS | JWT | PayPal*  
+A full-stack e-commerce platform with user authentication, product management, shopping cart, admin dashboard, and secure payments.
+
 🔹 **[Portfolio Website](https://github.com/Sahani-Mohottige/My-Portfolio)**  
 *HTML | Tailwind CSS | JavaScript*  
 A personal portfolio showcasing my projects, skills, and experience.  
